@@ -84,3 +84,11 @@
 
 }
 
+@media screen and (max-width: 600px) {
+  .header2 {
+    flex-direction: column;
+  }
+  .header3 {
+    flex-direction: column;
+  }
+}
